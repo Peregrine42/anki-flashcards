@@ -1,0 +1,3 @@
+nid	mid	fields
+1396469880022	1396388345622	/ts/&nbsp;[sound:cé.mp3]	cé,&nbsp;tyúkszem,&nbsp;[sound:03 tyúkszem.wav]<img src="tyukszem1.jpg" />
+1396470089354	1396388345622	/tʃ/&nbsp;[sound:cs.mp3]	csé,&nbsp;tyúkszem,&nbsp;[sound:03 tyúkszem.wav]<img src="tyukszem1.jpg" />
